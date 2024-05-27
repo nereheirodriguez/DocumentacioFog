@@ -1,1 +1,289 @@
-###FOGNEREI
+# FOGNEREI
+
+1. gdfgfdgfd
+   
+ ![Selección_1703](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/b1f3de75-ec00-4210-b57a-1cf842b4c372)
+
+ 2. gdfgfdgdfg
+
+![Selección_1704](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/2657c601-ac1e-40a4-9875-3998fd8668c2)
+
+3. gdfgfdgdfgd
+   
+![Selección_1705](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/ba56559f-9bad-4f1f-b507-523f6c13c749)
+
+4. gfdgdfgfd
+
+![Selección_1753](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/dcab814d-3783-40bf-8fd3-392ee4176a0d)
+
+
+
+5. gfdgfdgfdgdf
+
+![Selección_1754](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/bb950ed8-f4a0-4719-94bf-f857c230a1b9)
+
+6. gfdgfdgdfg
+
+![Selección_1706](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/d367f17a-c137-4a78-92e9-17be8be0885c)
+
+7. gbdfgdgdg
+
+![Selección_1707](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/d15cbafd-e787-460b-90c5-644c87c5eb53)
+
+8. gfgfdgd
+
+![Selección_1709](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/cba2c10c-0dad-4e3f-9a3f-76f3fab6e0d4)
+
+
+9. hggfhgfhfg
+
+![Selección_1755](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/cde61528-dd93-4125-a0a8-9a6473e38b17)
+
+10. gdfgfdgdfgfdg
+
+![Selección_1758](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/0f3746c3-789c-4887-9296-bd7835a779c0)
+
+11. fgdsgfdggdfgdf
+
+![Selección_1759](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/14c0b310-cec6-4db3-8632-6dc1d1f70a35)
+
+12. fsdfsdfsdfs
+
+![Selección_1760](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/e20e2378-1ea8-42e9-9922-2cc3c8bfcba3)
+
+13. vvfdgdfgdf
+
+![Selección_1761](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/8205f79c-ee62-40f0-ae19-9b773b4e7724)
+
+14. gddfgdfgdfgdf
+
+![Selección_1728](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f29fbc84-0833-4a40-84ca-0e0f4ca8f417)
+
+15. gdfgfdgdfgdfgdf
+
+![Selección_1762](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/75a2b122-4415-4f5e-bf88-fe39d8b556a7)
+
+16. gfdgfdgdfgdfgfd
+
+![Selección_1763](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/95c9b052-5141-4da2-9a1e-8514d6ed4d24)
+
+17. grdgdgfsdf
+
+![Selección_1765](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/723c5d59-af30-4708-9bef-70190a03e1f7)
+
+18. hgfhfghfghfg
+
+![Selección_1766](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7ea97cdf-e0f7-4328-8372-1b3f2740583d)
+
+19. ghhghfg
+
+![Selección_1767](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/122e1f67-e43d-462d-b78f-2ddc0a041fa2)
+
+20. fgdgfdgdfgfd
+
+![Selección_1768](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/bffedca8-570b-414f-a5ae-918a9cca6c9f)
+
+21. dfgdfgdfgdf
+
+![Selección_1769](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/328b2816-f032-45bb-b3a4-3631d9827739)
+
+22. fgdgdfgdfg
+
+![Selección_1770](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/c702e09c-6e80-495b-89af-08c3eaa823b9)
+
+23. dfgdfgdfg
+
+![Selección_1772](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/597b6324-0a46-4ae8-bdcc-66e2cc17afc8)
+
+24. fdsfsdfsdfsd
+
+![Selección_1775](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/de71c5f3-5abe-4629-b92c-8e044431d965)
+
+25. fsdfdsfdfds
+
+![Selección_1776](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7abb4f52-34ee-46e0-8f8b-c8d5ed80613e)
+
+
+## Capturar des del client un Ubuntu
+
+26. fsdfsdfsd
+![Selección_1812](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7d1942ec-04c9-4d1b-b1fe-34c7950029c4)
+
+27. gfsdgdfgdf
+    
+![Selección_1813](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7f126dfb-0499-498e-86ea-2d60e7f8ac0c)
+
+28. hfghfghf
+
+![Selección_1814](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/b73a86ff-35ee-4916-9d38-2876e9ba7081)
+
+29. hrfhgfhfghfg
+
+![Selección_1816](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/a1f7acdf-7dc1-4743-9256-7a50c605afd5)
+
+30. gfgdfgdf
+
+![Selección_1815](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/0d0d8832-0dc8-4f9e-91bb-4127bf352d91)
+
+31. fggdgfdg
+
+![Selección_1817](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/56833458-717d-4d74-a66a-105b19056a66)
+
+32. dfgfgdgggfdgfddfg
+
+![Selección_1818](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/3c7f0432-cd0a-4173-bea4-934207db3852)
+
+33. dfgfdgdfgd
+
+![Selección_1819](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/8671273f-5c80-43ae-8150-d49ea2b2f213)
+
+34. gfdgdgdfgd
+
+![Selección_1820](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/a886e946-7915-45f4-a0a7-be97697064a6)
+
+35. dghdhgf
+
+![Selección_1821](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/5337e9bf-0283-4211-a576-924594826eaf)
+
+36. gdfgdfgdfg
+
+![Selección_1822](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f1d1e0ee-8344-4efc-822f-a69ad1f5457d)
+
+37. fsfdsfsd
+    
+![Selección_1823](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/471fd78e-e300-4bbe-b7a9-b7af404767d0)
+
+38. gdfgfdgdf
+
+![Selección_1824](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/2c7fb5cf-a553-481a-9bbe-7d555d1e4a91)
+
+##Instal·lar imatge Windows
+
+39. sfgsdgfsd
+
+![Selección_1828](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f74bc39b-bc0b-4fb5-b930-63589c218ba3)
+
+40. gffsgdsgsdf
+
+![Selección_1830](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7077f1b7-9b29-4117-ae8b-396eb850ac90)
+
+41. fsfdsfdsf
+
+![Selección_1831](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/d9782b2c-8817-49cc-b3dd-4101a46d32f8)
+
+42. gffdggdfdf
+
+![Selección_1806](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/78dced4e-ec40-4351-afd7-0e0c7588722f)
+
+43. dfgdfgdfg
+
+![Selección_1809](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/fbb42c30-12b1-43c2-88a9-c0f7c6d36af0)
+
+44. gdgdfgdf
+
+![Selección_1811](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/9869a8f3-776c-4e66-958a-16b8d7207052)
+
+45. fdgfdgdfgdf
+
+![Selección_1838](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/6f4b2851-1c8c-45bb-ac96-8bf8229a1e2e)
+
+## Instal·lar imatge Ubuntu
+
+46. gfgfdgdf
+
+![Selección_1826](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/c602924a-91b8-48e9-be13-4208dc242908)
+
+47. gfgdfgdfgd
+
+![Selección_1827](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/648e0815-76bb-4272-8d96-3fd3fed260de)
+
+48. fsdgfdsgdf
+
+![Selección_1828](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/fa84cbaf-1cb6-4453-857d-d0977ae587c9)
+
+49. dfgfdg
+
+![Selección_1829](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/20e9239f-9b99-4f6d-98fc-b60042a5deff)
+
+50. fdgfdgfdgd
+
+![Selección_1830](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/75c9885b-94f2-46be-87e2-6941c0666832)
+
+51. dffdgdfg
+
+![Selección_1831](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/2eaa71da-d81f-48e5-8bc0-a9f14c85d494)
+
+52. gfdgdfgd
+
+![Selección_1832](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/fa1882b8-a504-4ff4-8276-f16de2b8be69)
+
+53. ghdgdfgd
+
+![Selección_1834](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/5daaf896-e47c-4869-a336-86d2e640cce5)
+
+54. dgfdgdf
+
+![Selección_1835](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f5fbf082-831d-4802-8eca-47828aaeef56)
+
+55. gfdgfdgdf
+
+![Selección_1836](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f5840b0a-f788-4fe5-86e5-21b628858bb5)
+
+56. gdgdfgd
+
+![Selección_1837](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7630fe14-c507-4485-b587-6f708871bacf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
