@@ -1,5 +1,7 @@
 # FOGNEREI
 
+## Instal·lar i configurar un servidor FOG
+
 1. gdfgfdgfd
    
  ![Selección_1703](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/b1f3de75-ec00-4210-b57a-1cf842b4c372)
