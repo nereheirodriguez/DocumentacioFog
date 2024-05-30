@@ -2,7 +2,7 @@
 
 ## Instal·lar i configurar un servidor FOG
 
-1. gdfgfdgfd
+1. Primerament ficarem a l’adaptador 2 de el server xarxa interna
    
  ![Selección_1703](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/b1f3de75-ec00-4210-b57a-1cf842b4c372)
 
