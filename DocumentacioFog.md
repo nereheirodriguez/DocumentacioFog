@@ -57,21 +57,21 @@
 
 ![Selección_1761](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/8205f79c-ee62-40f0-ae19-9b773b4e7724)
 
-14. gddfgdfgdfgdf
+14. Ara entrem al server i fiquem usuari i contrassenya
 
 ![Selección_1728](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f29fbc84-0833-4a40-84ca-0e0f4ca8f417)
 
 ## -Capturar des del client un Windows
 
-15. gdfgfdgdfgdfgdf
+15. Anirem a "Images" i seleccionarem "Create New Image"
 
 ![Selección_1762](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/75a2b122-4415-4f5e-bf88-fe39d8b556a7)
 
-16. gfdgfdgdfgdfgfd
+16. Dins posarem el nom, seleccionarem el sistema operatio i a image type li posem "Multiple Partition Image-Single Disk"
 
 ![Selección_1763](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/95c9b052-5141-4da2-9a1e-8514d6ed4d24)
 
-17. grdgdgfsdf
+17. Ara anirem a "Hosts" i ficarem "Create New Host"
 
 ![Selección_1765](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/723c5d59-af30-4708-9bef-70190a03e1f7)
 
