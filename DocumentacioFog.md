@@ -45,15 +45,15 @@
 
 ![Selección_1758](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/0f3746c3-789c-4887-9296-bd7835a779c0)
 
-11. fgdsgfdggdfgdf
+11. Espitjem i acabem d'instal.lar
 
 ![Selección_1759](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/14c0b310-cec6-4db3-8632-6dc1d1f70a35)
 
-12. fsdfsdfsdfs
+12. Ara espitjem a Enter
 
 ![Selección_1760](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/e20e2378-1ea8-42e9-9922-2cc3c8bfcba3)
 
-13. vvfdgdfgdf
+13. I ara ja ens dona Usuari i Password
 
 ![Selección_1761](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/8205f79c-ee62-40f0-ae19-9b773b4e7724)
 
