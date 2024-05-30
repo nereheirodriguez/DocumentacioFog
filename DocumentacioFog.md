@@ -75,35 +75,35 @@
 
 ![Selección_1765](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/723c5d59-af30-4708-9bef-70190a03e1f7)
 
-18. hgfhfghfghfg
+18. Li posem "Windows10" al hostname, afegim la MAC del client i seleccionem el host de la imatge que hem afegit
 
 ![Selección_1766](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7ea97cdf-e0f7-4328-8372-1b3f2740583d)
 
-19. ghhghfg
+19. Ara ho capturem
 
 ![Selección_1767](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/122e1f67-e43d-462d-b78f-2ddc0a041fa2)
 
-20. fgdgfdgdfgfd
+20. I li donem a "Task"
 
 ![Selección_1768](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/bffedca8-570b-414f-a5ae-918a9cca6c9f)
 
-21. dfgdfgdfgdf
+21. Ara diu que ja esta creada
 
 ![Selección_1769](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/328b2816-f032-45bb-b3a4-3631d9827739)
 
-22. fgdgdfgdfg
+22. Ara entrem per lan al client
 
 ![Selección_1770](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/c702e09c-6e80-495b-89af-08c3eaa823b9)
 
-23. dfgdfgdfg
+23. Aqui entra per xarxa
 
 ![Selección_1772](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/597b6324-0a46-4ae8-bdcc-66e2cc17afc8)
 
-24. fdsfsdfsdfsd
+24. I ja esta capturant la imatge
 
 ![Selección_1775](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/de71c5f3-5abe-4629-b92c-8e044431d965)
 
-25. fsdfdsfdfds
+25. Aqui el server mostra com ja la ha capturat
 
 ![Selección_1776](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7abb4f52-34ee-46e0-8f8b-c8d5ed80613e)
 
