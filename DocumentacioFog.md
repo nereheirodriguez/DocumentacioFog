@@ -61,6 +61,8 @@
 
 ![Selección_1728](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f29fbc84-0833-4a40-84ca-0e0f4ca8f417)
 
+## -Capturar des del client un Windows
+
 15. gdfgfdgdfgdfgdf
 
 ![Selección_1762](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/75a2b122-4415-4f5e-bf88-fe39d8b556a7)
