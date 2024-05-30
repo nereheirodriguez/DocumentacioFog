@@ -380,6 +380,13 @@
 
 ![Selección_1993](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/8c43ce5a-70b2-4c1b-b78b-3734bcf464fe)
 
+90. Ara al client ja surt el missatge de Fog dient que se reiniciara per a aplicar el nou software.
+![Selección_1995](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/d207915e-277c-4b36-a6a8-4328d6473695)
+
+91. Al server ja surt "Complete"
+
+![Selección_1996](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/5f343969-178c-4ed9-8021-be2914674a44)
+
 
 
 
