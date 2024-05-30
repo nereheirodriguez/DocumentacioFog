@@ -20,7 +20,7 @@
 
 
 
-5. I el DNS
+5. I el DNSv
 
 ![Selección_1754](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/bb950ed8-f4a0-4719-94bf-f857c230a1b9)
 
