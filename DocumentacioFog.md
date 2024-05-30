@@ -233,6 +233,71 @@
 
 ![Selección_1837](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7630fe14-c507-4485-b587-6f708871bacf)
 
+##Llençar un paquet per a que s’instal·li als client en windows
+
+57. hfghfghfghfg
+![Selección_1942](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/2bef0623-5439-4f1e-b1e8-b8690efac306)
+
+58. gdfgdfgdf
+![Selección_1944](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/0a7039ef-a44e-41af-831f-7e7252c8fa50)
+
+59. fgsfsdfsd
+![Selección_1945](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/3e5a2610-2833-46c3-86f8-cb8d6d3c9f86)
+
+60. gdfgdfgdf
+![Selección_1946](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/5ef8848f-a59e-4f67-b792-a98b39f5933f)
+
+61. gfdgfdgdfgfd
+![Selección_1947](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/94b566ba-eea1-40d9-8578-317306a89adf)
+
+62. gdfgdfgdf
+![Selección_1948](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/6e742725-e51d-40ad-9f97-6a6e97557bde)
+
+63. gdfgdfgdf
+![Selección_1956](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/0dd64128-b8bc-447b-b82b-a9bed2958448)
+
+64. hjfgjgh
+![Selección_1957](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/9be96530-d943-4b7b-a64a-a3bdf35ac90d)
+
+65. gfdgfd
+![image](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/67e9751a-5243-4b61-aeea-d08ec59464b9)
+
+66. gfdgdfg
+![Selección_1952](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/0c52b915-9c80-409a-8cd0-77c89eabc04f)
+
+67. hfghfgh
+![Selección_1960](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/65a83919-a264-44b7-a8c7-1e29a32534a8)
+
+68. jghfjghhj
+![Selección_1961](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/e881a0a9-e387-45ca-b357-388f23454574)
+
+69. hfghfgfgh
+![Selección_1962](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/a12c85ed-0e00-48ea-8b00-9b5190ecba23)
+
+70. fsgdf
+![Selección_1964](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/e6e209a6-6ea2-499c-9778-95511b2d07d1)
+
+71. fsfsdf
+![Selección_1966](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/81cac90e-500f-45ad-bd9d-c67a4fb393be)
+
+72. fsdfsd
+![Selección_1967](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/02fddb40-67ab-4cf0-bd1a-951a58e9ce37)
+
+73. fgdgdf
+![Selección_1969](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/694181f7-f080-42e2-90f2-2da48a360b20)
+
+##Llençar un paquet per a que s’instal·li als client en Ubuntu
+
+74. fsdfsd
+
+
+
+
+
+
+
+
+
 
 
 
