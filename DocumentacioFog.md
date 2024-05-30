@@ -6,11 +6,11 @@
    
  ![Selección_1703](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/b1f3de75-ec00-4210-b57a-1cf842b4c372)
 
- 2. gdfgfdgdfg
+ 2. Anem a la pàgina oficial de Fog i descarregem el TAR.GZ
 
 ![Selección_1704](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/2657c601-ac1e-40a4-9875-3998fd8668c2)
 
-3. gdfgfdgdfgd
+3. Ara ja tenim descarregat el TAR.GZ
    
 ![Selección_1705](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/ba56559f-9bad-4f1f-b507-523f6c13c749)
 
