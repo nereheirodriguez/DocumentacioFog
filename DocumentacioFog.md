@@ -287,20 +287,107 @@
 
 ![Selección_1958](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/5e0f168f-5326-4dbf-90c2-5f1484ea0203)
 
-69. dgdfgdf
+69. Ara ja està creada la tasca
+
+![Selección_1960](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/8ee1dcf8-fe81-4072-bdcb-dd79eeb17985)
+
+70. Ara anem a tasques i esperem a que instal.le
+
+![Selección_1961](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/9734b1a2-0d06-42d4-90ed-f3d793268baf)
+
+71. Al pc del client ja surt el missatge de Instalando "MozillaFirefox"
+
+![Selección_1962](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/9c02a483-c54b-4ee0-99c9-0a0ce319ae86)
+
+72. Ara surt que es reiniciarà
+
+![Selección_1964](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/06a73701-9e74-455a-8458-5c25a57aada6)
+
+73. Al server ja surt completat
+
+![Selección_1966](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f1519731-098e-40f9-a376-b280540fa2c7)
+
+74. Windows fa actualitzacions
+
+![Selección_1967](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/2649664f-468a-4382-9e68-2e2c61e15532)
+
+75. Ara ja està instal.lat el Firefox i surt a l'escriptori, comprovacions:
 
 
-
-
-  
-
-
-
+![Selección_1969](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/526eebbc-7e40-400e-8629-f89720d0f0fd)
 
 
 ## Llençar un paquet per a que s’instal·li als client en Ubuntu
 
-74. fsdfsd
+76. Instal.lem els certificats i el mono per a poder executar el client
+
+![Selección_1971](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/631ea5dd-c52e-47b6-9f6f-f839ade9fada)
+
+![Selección_1972](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/592e16a4-4042-4e7b-abb2-f1519cc8aeee)
+
+![Selección_1973](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/6fcef200-1251-4d3d-8706-9ee267d76255)
+
+77. Instal.lem el mono
+
+![Selección_1975](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/cc80c25e-cbfc-4e34-9146-53601732d273)
+
+78. Baixem el client del fog del server
+
+![Selección_1976](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/39fd697f-49a2-4074-9086-a025587a4d8a)
+
+
+79. Executem el client
+
+![Selección_1977](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/88f3e3d2-39ab-4ff9-988d-8f6515a61401)
+
+80. Fiquem la IP del server i diem que si que inicie el servei FOG quan acabi
+
+![Selección_1978](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f0a69357-c3c0-4a3d-bdeb-c650ceed58e8)
+
+81. Aqui mostra que ja està acabat
+
+![Selección_1979](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/de5f61ac-628d-45db-a57a-9068da104e02)
+
+82. Ara descarregarem el paquet google-chrome-stable i ho ficarem dins de la ruta /var/www/fog/client
+
+![Selección_1983](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/2d4455c5-9c94-4207-8917-e4637594d2d0)
+
+83. Creem un script que es digui chrome.sh i li posem que descarregui el paquet i que l'instal.li
+
+![Selección_1982](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7c990c82-a0be-4cc2-aca1-ea58553aef31)
+
+84. Li canviem permisos:
+
+![Selección_1984](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/074ed398-5c69-4bde-a983-77e552be5ac7)
+
+85. Ara al server anem a "Snapin" i "Create new snapin", Fiquem el nom i fiquem Script, mode de script /bin/bash i seleccionem el script
+
+![Selección_1987](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/c157f931-3510-4fdb-a051-0be2519e6750)
+
+86. Entrem dins del host de Ubuntu
+
+![Selección_1989](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/b5782c4e-cefe-4223-b08f-db5539d2bb0a)
+
+87. Anem a "Snapins" i seleccionem "Chrome" que hem creat avans i espitjem a "Add"
+
+![Selección_1991](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/b0cbe3ea-858f-482c-9aba-15173ed1b42f)
+
+88. Seleccionem "Chrome" i li donem a "Task"
+
+![Selección_1992](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/86645220-8c74-4dca-9180-d2b53a358d7d)
+
+89. Ja està la tasca creada:
+
+![Selección_1993](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/8c43ce5a-70b2-4c1b-b78b-3734bcf464fe)
+
+
+
+
+
+
+
+
+
 
 
 
