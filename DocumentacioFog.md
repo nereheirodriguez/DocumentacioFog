@@ -14,34 +14,34 @@
    
 ![Selección_1705](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/ba56559f-9bad-4f1f-b507-523f6c13c749)
 
-4. gfdgdfgfd
+4. Li fiquem una IP estàtica
 
 ![Selección_1753](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/dcab814d-3783-40bf-8fd3-392ee4176a0d)
 
 
 
-5. gfdgfdgfdgdf
+5. I el DNS
 
 ![Selección_1754](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/bb950ed8-f4a0-4719-94bf-f857c230a1b9)
 
-6. gfdgfdgdfg
+6. Ho descomprimim
 
 ![Selección_1706](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/d367f17a-c137-4a78-92e9-17be8be0885c)
 
-7. gbdfgdgdg
+7. Entrem a la carpeta i ho instal.lem
 
 ![Selección_1707](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/d15cbafd-e787-460b-90c5-644c87c5eb53)
 
-8. gfgfdgd
+8. Seleccionem la opció 2
 
 ![Selección_1709](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/cba2c10c-0dad-4e3f-9a3f-76f3fab6e0d4)
 
 
-9. hggfhgfhfg
+9. Fiquem instal.lació normal, fiquem la interficie de xarxa que hem posat i ficarem DHCP
 
 ![Selección_1755](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/cde61528-dd93-4125-a0a8-9a6473e38b17)
 
-10. gdfgfdgdfgfdg
+10. Ara ja ho tenim ara anem al server i acabem d'instal.lar
 
 ![Selección_1758](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/0f3746c3-789c-4887-9296-bd7835a779c0)
 
