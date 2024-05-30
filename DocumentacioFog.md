@@ -141,53 +141,53 @@
 
 ![Selección_1819](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/8671273f-5c80-43ae-8150-d49ea2b2f213)
 
-34. gfdgdgdfgd
+34. Ara entrem per lan
 
 ![Selección_1820](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/a886e946-7915-45f4-a0a7-be97697064a6)
 
-35. dghdhgf
+35. Aqui esta entran per xarxa
 
 ![Selección_1821](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/5337e9bf-0283-4211-a576-924594826eaf)
 
-36. gdfgdfgdfg
+36. I ja esta capturant la imatge
 
 ![Selección_1822](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f1d1e0ee-8344-4efc-822f-a69ad1f5457d)
 
-37. fsfdsfsd
+37. Aqui mostro el procés de capturació des del server
     
 ![Selección_1823](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/471fd78e-e300-4bbe-b7a9-b7af404767d0)
 
-38. gdfgfdgdf
+38. Aqui mostro que ja està completat
 
 ![Selección_1824](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/2c7fb5cf-a553-481a-9bbe-7d555d1e4a91)
 
 ## Instal·lar imatge Windows
 
-39. sfgsdgfsd
+39. Fem una nova maquina virtual buida i fiquem xarxa interna
 
 ![Selección_1828](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f74bc39b-bc0b-4fb5-b930-63589c218ba3)
 
-40. gffsgdsgsdf
+40. Iniciem per xarxa i posem "Deploy Image"
 
 ![Selección_1830](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7077f1b7-9b29-4117-ae8b-396eb850ac90)
 
-41. fsfdsfdsf
+41. Fiquem usuari i contrassenya
 
 ![Selección_1831](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/d9782b2c-8817-49cc-b3dd-4101a46d32f8)
 
-42. gffdggdfdf
+42. Seleccionem la imatge de windows
 
 ![Selección_1806](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/78dced4e-ec40-4351-afd7-0e0c7588722f)
 
-43. dfgdfgdfg
+43. I ja s'esta planxant
 
 ![Selección_1809](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/fbb42c30-12b1-43c2-88a9-c0f7c6d36af0)
 
-44. gdgdfgdf
+44. Ara inicia en la imatge que tenia capturada fog i ha planxat
 
 ![Selección_1811](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/9869a8f3-776c-4e66-958a-16b8d7207052)
 
-45. fdgfdgdfgdf
+45. Comprovació per CMD
 
 ![Selección_1838](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/6f4b2851-1c8c-45bb-ac96-8bf8229a1e2e)
 
