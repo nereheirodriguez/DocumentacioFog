@@ -239,61 +239,64 @@
 
 ## Llençar un paquet per a que s’instal·li als client en windows
 
-57. dfgfdgfd
+57. Instal.lem el client fog
 
 ![Selección_1942](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/1881edc3-428f-4879-8395-269391d99fb5)
 
-58. ghdhgfhgfhfg
+58. Afegim la ip del server
+
+![Selección_1944](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/2260ca1e-de86-4749-8e69-6586da45a6e2)
+
+59. Espitjem a "Install"
+
+![Selección_1945](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/77d8917c-7524-4e07-93a5-62e28f4e45ee)
+
+60. Anem a "Servicios" i comprovem que està funcionant.
+
+![Selección_1946](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/e903c4c1-80e7-4391-adef-fea660594988)
+
+61. Descarregem el Firefox en Windows 64-bit MSI
+
+![Selección_1947](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/a2e04e13-aec4-43d2-b3f8-73ab7dce234b)
+
+62. Ara anem a "Snapin" i "Create new snapin" i de nom posem "Mozilla Firefox, seleccionem tipo de snapin normal i seleccionem MSI i seleccionem el instal.lador
+
+![Selección_1948](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/bf080f8c-ed52-4044-9414-6ab7e9b0b447)
+
+63. Aqui mostro que ja està creat
+
+![Selección_1949](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/e8e3edb7-8d2a-4197-bd72-3103a0265848)
+
+64. Ara anem a "Basic tasks" i seleccionem "Advanced"
+
+![Selección_1950](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/a7d68b06-0e7b-461f-bae4-2f34bf3c0efb)
+
+65. Seleccionem "Single Snapin"
+
+![Selección_1951](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/25b040fb-bfac-4626-b685-7d2c1db6a43f)
+
+66. Seleccionem el snapin que hem creat "MozillaFirefox"
+
+![Selección_1952](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/371886a5-1fca-4027-b8ef-e8f0dc758b0f)
+
+67. Anirem a hosts i entrarem dins del Equip
+
+![Selección_1956](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/fabe289e-4586-40ec-9891-15b1a8641573)
+
+68. Seleccionem el Mozilla i li donem a "Add"
+
+![Selección_1958](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/5e0f168f-5326-4dbf-90c2-5f1484ea0203)
+
+69. dgdfgdf
 
 
 
-60. gdfgdfgdf
-![Selección_1944](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/0a7039ef-a44e-41af-831f-7e7252c8fa50)
 
-61. fgsfsdfsd
-![Selección_1945](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/3e5a2610-2833-46c3-86f8-cb8d6d3c9f86)
+  
 
-62. gdfgdfgdf
-![Selección_1946](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/5ef8848f-a59e-4f67-b792-a98b39f5933f)
 
-63. gfdgfdgdfgfd
-![Selección_1947](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/94b566ba-eea1-40d9-8578-317306a89adf)
 
-64. gdfgdfgdf
-![Selección_1948](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/6e742725-e51d-40ad-9f97-6a6e97557bde)
 
-65. gdfgdfgdf
-![Selección_1956](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/0dd64128-b8bc-447b-b82b-a9bed2958448)
-
-66. hjfgjgh
-![Selección_1957](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/9be96530-d943-4b7b-a64a-a3bdf35ac90d)
-
-67. gfdgfd
-![image](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/67e9751a-5243-4b61-aeea-d08ec59464b9)
-
-68. gfdgdfg
-![Selección_1952](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/0c52b915-9c80-409a-8cd0-77c89eabc04f)
-
-69. hfghfgh
-![Selección_1960](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/65a83919-a264-44b7-a8c7-1e29a32534a8)
-
-70. jghfjghhj
-![Selección_1961](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/e881a0a9-e387-45ca-b357-388f23454574)
-
-71. hfghfgfgh
-![Selección_1962](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/a12c85ed-0e00-48ea-8b00-9b5190ecba23)
-
-72. fsgdf
-![Selección_1964](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/e6e209a6-6ea2-499c-9778-95511b2d07d1)
-
-73. fsfsdf
-![Selección_1966](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/81cac90e-500f-45ad-bd9d-c67a4fb393be)
-
-74. fsdfsd
-![Selección_1967](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/02fddb40-67ab-4cf0-bd1a-951a58e9ce37)
-
-75. fgdgdf
-![Selección_1969](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/694181f7-f080-42e2-90f2-2da48a360b20)
 
 ## Llençar un paquet per a que s’instal·li als client en Ubuntu
 
