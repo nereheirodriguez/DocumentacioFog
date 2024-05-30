@@ -161,7 +161,7 @@
 
 ![Selección_1824](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/2c7fb5cf-a553-481a-9bbe-7d555d1e4a91)
 
-##Instal·lar imatge Windows
+## Instal·lar imatge Windows
 
 39. sfgsdgfsd
 
@@ -237,7 +237,7 @@
 
 ![Selección_1837](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7630fe14-c507-4485-b587-6f708871bacf)
 
-##Llençar un paquet per a que s’instal·li als client en windows
+## Llençar un paquet per a que s’instal·li als client en windows
 
 57. hfghfghfghfg
 ![Selección_1942](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/2bef0623-5439-4f1e-b1e8-b8690efac306)
@@ -290,7 +290,7 @@
 73. fgdgdf
 ![Selección_1969](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/694181f7-f080-42e2-90f2-2da48a360b20)
 
-##Llençar un paquet per a que s’instal·li als client en Ubuntu
+## Llençar un paquet per a que s’instal·li als client en Ubuntu
 
 74. fsdfsd
 
