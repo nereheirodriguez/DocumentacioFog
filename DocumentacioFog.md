@@ -110,34 +110,34 @@
 
 ## Capturar des del client un Ubuntu
 
-26. fsdfsdfsd
+26. Aqui creem el client
 ![Selección_1812](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7d1942ec-04c9-4d1b-b1fe-34c7950029c4)
 
-27. gfsdgdfgdf
+27. Mostro com ja esta creat el client
     
 ![Selección_1813](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7f126dfb-0499-498e-86ea-2d60e7f8ac0c)
 
-28. hfghfghf
+28. Fiquem xarxa interna
 
 ![Selección_1814](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/b73a86ff-35ee-4916-9d38-2876e9ba7081)
 
-29. hrfhgfhfghfg
+29. Ara entrem al servidor, anem a "Images" i "Create new image", li ficarem nom a la imatge, a sistema operatiu escollim Linux i al tipo de imatge posem "Multiple Partition image - Single Disk" i espitjem a "Add"
 
 ![Selección_1816](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/a1f7acdf-7dc1-4743-9256-7a50c605afd5)
 
-30. gfgdfgdf
+30. Ara anem a "Hosts" i anem a "Create new host"
 
 ![Selección_1815](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/0d0d8832-0dc8-4f9e-91bb-4127bf352d91)
 
-31. fggdgfdg
+31. Fiquem el host name "Ubuntu22" i fiquem la MAC del client i després seleccionem la imatge que hem creat
 
 ![Selección_1817](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/56833458-717d-4d74-a66a-105b19056a66)
 
-32. dfgfgdgggfdgfddfg
+32. Ara espitjem a "Capturar"
 
 ![Selección_1818](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/3c7f0432-cd0a-4173-bea4-934207db3852)
 
-33. dfgfdgdfgd
+33. I confirmem la tasca
 
 ![Selección_1819](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/8671273f-5c80-43ae-8150-d49ea2b2f213)
 
