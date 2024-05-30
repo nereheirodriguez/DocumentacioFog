@@ -193,47 +193,47 @@
 
 ## Instal·lar imatge Ubuntu
 
-46. gfgfdgdf
+46. Creem la maquina virtual sense sistema operatiu com a windows 
 
 ![Selección_1826](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/c602924a-91b8-48e9-be13-4208dc242908)
 
-47. gfgdfgdfgd
+47. Paràmetres de la màquina
 
 ![Selección_1827](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/648e0815-76bb-4272-8d96-3fd3fed260de)
 
-48. fsdgfdsgdf
+48. Fiquem xarxa interna a l'adaptador 1
 
 ![Selección_1828](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/fa84cbaf-1cb6-4453-857d-d0977ae587c9)
 
-49. dfgfdg
+49. Entrem per LAN
 
 ![Selección_1829](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/20e9239f-9b99-4f6d-98fc-b60042a5deff)
 
-50. fdgfdgfdgd
+50. Quan entra al Fog per lan seleccionem "Deploy Image"
 
 ![Selección_1830](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/75c9885b-94f2-46be-87e2-6941c0666832)
 
-51. dffdgdfg
+51. Fiquem usuari i contrassenya
 
 ![Selección_1831](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/2eaa71da-d81f-48e5-8bc0-a9f14c85d494)
 
-52. gfdgdfgd
+52. I seleccionem la imatge capturada de Ubuntu 22 per a que ho planxi
 
 ![Selección_1832](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/fa1882b8-a504-4ff4-8276-f16de2b8be69)
 
-53. ghdgdfgd
+53. Aqui ja està planxant
 
 ![Selección_1834](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/5daaf896-e47c-4869-a336-86d2e640cce5)
 
-54. dgfdgdf
+54. Aqui mostra que ja està
 
 ![Selección_1835](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f5fbf082-831d-4802-8eca-47828aaeef56)
 
-55. gfdgfdgdf
+55. Entra correctament
 
 ![Selección_1836](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/f5840b0a-f788-4fe5-86e5-21b628858bb5)
 
-56. gdgdfgd
+56. Comprovació que son iguals client i recu:
 
 ![Selección_1837](https://github.com/nereheirodriguez/DocumentacioFog/assets/114423336/7630fe14-c507-4485-b587-6f708871bacf)
 
